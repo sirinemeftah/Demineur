@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1653672895 source:c:\users\mahmo\onedrive\bureau\ensi\2eme semestre\c++\mini_projet\demineur\main.cpp
+	<iostream>
+	<plateau.h>
+	<Case.h>
+	<fstream>
+	<string>
+	<vector>
+	<stdio.h>
+
+1651095928 source:c:\users\mahmo\onedrive\bureau\ensi\2eme semestre\c++\mini_projet\demineur\src\plateau.cpp
+	"plateau.h"
+
+1653671493 c:\users\mahmo\onedrive\bureau\ensi\2eme semestre\c++\mini_projet\demineur\include\plateau.h
+	<Case.h>
+	<iostream>
+	<time.h>
+	<string>
+
+1653669310 c:\users\mahmo\onedrive\bureau\ensi\2eme semestre\c++\mini_projet\demineur\include\case.h
+	<string>
+	<iostream>
+	<plateau.h>
+

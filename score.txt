@@ -1,0 +1,5 @@
+sirine,10
+Achraf,6
+ahmed,4
+ayen,6
+ASMA,4
